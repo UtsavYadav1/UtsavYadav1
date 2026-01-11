@@ -1,0 +1,41 @@
+name: Metrics
+on:
+  # Schedule updates (every 24 hours)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run it manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: UtsavYadav1
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          
+          # This enables the "Spider Chart" (Followup plugin)
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          
+          # This enables the "Contributed To" list
+          plugin_notable: yes
+          plugin_notable_from: organization
+          
+          # This enables the Heatmap
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # This enables the Recent Activity lines
+          plugin_lines: yes
+          
+          # Theme settings
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.plugin.activity.svg
