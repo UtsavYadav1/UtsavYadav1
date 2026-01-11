@@ -15,19 +15,15 @@ jobs:
           user: UtsavYadav1
           template: classic
           
-          # This is the key change: Disable the base info (header, repos)
-          # so we ONLY get the graphs you want.
+          # 1. This disables the Header, Repos, and Metadata (the top part you don't want)
           base: ""
           
-          # Spider Chart (The green graph)
+          # 2. This enables the Spider Chart
           plugin_followup: yes
           plugin_followup_sections: repositories
           
-          # Contributed To List (The left side list)
+          # 3. This enables the "Contributed to" list
           plugin_notable: yes
           plugin_notable_from: organization
           
-          # Isometric Calendar (The 3D block graph from your other screenshot)
-          # If you don't want this 3D calendar, remove the next 2 lines.
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
