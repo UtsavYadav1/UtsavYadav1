@@ -84,9 +84,9 @@
 
 <br>
 
-<!-- Activity Graph -->
+<!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavYadav1&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Utsav's Activity Graph" width="800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavYadav1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Top Languages" width="400" />
 </div>
 
 ---
