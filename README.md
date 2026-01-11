@@ -76,19 +76,6 @@
 
 <br>
 
-<!-- Activity Overview (Spider Chart & Detailed Activity) -->
-<div align="center">
-  <img src="https://github.com/UtsavYadav1/UtsavYadav1/blob/main/metrics.plugin.activity.svg?raw=true" alt="Spider Chart & Activity" width="800" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UtsavYadav1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
-<br>
-
 <!-- Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavYadav1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Top Languages" />
