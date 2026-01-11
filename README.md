@@ -64,12 +64,22 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Utsav's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavYadav1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currFire=58A6FF&dates=C9D1D9" alt="Utsav's Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Utsav's Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavYadav1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currFire=58A6FF&dates=C9D1D9" alt="Utsav's Streak" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UtsavYadav1&theme=gitdimmed&no-frame=true&no-bg=true&margin-h=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UtsavYadav1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
@@ -79,7 +89,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/UtsavYadav1/">
-    <img src="https://leetcard.javacrypt.com/badge/UtsavYadav1?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/?username=UtsavYadav1&theme=dark" alt="LeetCode Stats" />
   </a>
 </div>
 
