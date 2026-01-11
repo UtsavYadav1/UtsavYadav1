@@ -76,13 +76,6 @@
 
 <br>
 
-<!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavYadav1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Top Languages" />
-</div>
-
----
-
 <!-- Competitive Programming -->
 <h2 align="center">🧠 Competitive Programming</h2>
 
