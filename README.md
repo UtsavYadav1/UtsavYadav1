@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Tech+Innovator;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Problem+Solver;Tech+Innovator;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -67,10 +67,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Utsav's Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" alt="Utsav's Stats" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavYadav1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currFire=58A6FF&dates=C9D1D9" alt="Utsav's Streak" width="400" />
+        <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currFire=58A6FF&dates=C9D1D9" alt="Utsav's Streak" width="400" />
       </td>
     </tr>
   </table>
@@ -80,6 +80,13 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=UtsavYadav1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavYadav1&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Utsav's Activity Graph" width="800" />
 </div>
 
 ---
@@ -124,5 +131,5 @@
 
 <div align="center">
   <br>
-  <i>"I'm an Information Technology undergraduate building scalable, secure, and intelligent systems."</i>
+  <i>"Building the future with code, one bug at a time."</i>
 </div>
