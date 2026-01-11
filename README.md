@@ -1,16 +1,118 @@
-## Hi there 👋
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Utsav%20Yadav&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable,%20Secure,%20and%20Intelligent%20Systems&descAlignY=55&descAlign=60&fontColor=ffffff" alt="Utsav Yadav Header" width="100%"/>
+</div>
 
-<!--
-**UtsavYadav1/UtsavYadav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Tech+Innovator;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<!-- About Me -->
+<h2 align="center">⚡ About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I am an <b>Information Technology undergraduate</b> at KIET Group of Institutions with strong problem-solving skills and hands-on experience in <b>full-stack development</b> and <b>AI-based systems</b>. I have built real-world platforms in healthcare, career guidance, and social empowerment domains. My work includes a <b>patent-selected healthcare project</b>. I am passionate about scalable systems, secure development, and applied AI.
+</p>
+
+<p align="center">
+  📍 <b>Location</b>: India &nbsp; • &nbsp; 🎓 <b>Education</b>: B.Tech (IT) &nbsp; • &nbsp; 💼 <b>Status</b>: Open to Internships
+</p>
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+
+### Frontend
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+
+### Backend
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeURL" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+
+### Databases
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+### Tools & Platforms
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+</div>
+
+---
+
+<!-- GitHub Analytics -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Utsav's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavYadav1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currFire=58A6FF&dates=C9D1D9" alt="Utsav's Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UtsavYadav1&theme=gitdimmed&no-frame=true&no-bg=true&margin-h=4" alt="Trophies" />
+</div>
+
+---
+
+<!-- Competitive Programming -->
+<h2 align="center">🧠 Competitive Programming</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/u/UtsavYadav1/">
+    <img src="https://leetcard.javacrypt.com/badge/UtsavYadav1?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+| 🏆 Project | 📝 Description | 💻 Tech Stack |
+| :--- | :--- | :--- |
+| **WellSure** | AI-Powered Health Diagnosis & Doctor Booking Platform. (Patent Selected) | `AI` `Python` `Web` |
+| **EmpowerHer** | Full-Stack Role-Based Empowerment Platform for women safety and growth. | `React` `Node.js` `MongoDB` |
+| **CareerBERT** | AI-Powered Career & Job Matching System using advanced NLP. | `BERT` `NLP` `Flask` |
+| **Kisan Bazaar** | Farmer-to-Consumer Digital Marketplace eliminating middlemen. | `Full Stack` `Web` `DB` |
+
+---
+
+<!-- Connect With Me -->
+<h2 align="center">🔗 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/utsav-yadav01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/UtsavYadav1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/UtsavyadavX" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <i>"I'm an Information Technology undergraduate building scalable, secure, and intelligent systems."</i>
+</div>
