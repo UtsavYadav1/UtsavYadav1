@@ -55,8 +55,16 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currFire=58A6FF&dates=C9D1D9" height="180" alt="Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&rank_icon=github" height="180" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currFire=58A6FF&dates=C9D1D9" height="180" alt="Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
