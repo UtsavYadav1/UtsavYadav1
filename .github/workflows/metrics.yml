@@ -15,14 +15,14 @@ jobs:
           user: UtsavYadav1
           template: classic
           
-          # 1. This disables the Header, Repos, and Metadata (the top part you don't want)
+          # Force disable base content (Header, Activity, Community, Repos, Metadata)
           base: ""
           
-          # 2. This enables the Spider Chart
+          # Enable ONLY the Spider Chart
           plugin_followup: yes
           plugin_followup_sections: repositories
           
-          # 3. This enables the "Contributed to" list
+          # Enable ONLY the Contributed list
           plugin_notable: yes
           plugin_notable_from: organization
           
