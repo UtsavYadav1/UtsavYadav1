@@ -55,13 +55,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-
-  <br/>
-  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=true&layout=compact" height="180" alt="Top Languages" />
 </div>
-
-<br>
 
 <!-- Activity Graph (Line Chart) -->
 <div align="center">
