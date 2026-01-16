@@ -53,14 +53,14 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=false" alt="Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=onedark&hide_border=false" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-<br>
 
 <!-- Activity Graph (Line Chart) -->
 <div align="center">
