@@ -57,7 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&hide=contribs" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats-one-beryl-10.vercel.app?user=UtsavYadav1&theme=onedark&hide_border=false" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=onedark&hide_border=false" alt="Streak" />
   <br/>
   <img src="https://github-readme-stats-bay-delta-70.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
