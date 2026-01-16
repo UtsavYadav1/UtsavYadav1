@@ -55,12 +55,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
- <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=onedark&hide_border=false" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
+<br>
 
 <!-- Activity Graph (Line Chart) -->
 <div align="center">
@@ -68,6 +70,12 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UtsavYadav1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
+---
 
 <!-- Competitive Programming -->
 <h2 align="center">🧠 Competitive Programming</h2>
