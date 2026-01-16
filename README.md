@@ -55,44 +55,18 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&hide=contribs" alt="Stats" />
+  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+
   <br/>
   <img src="https://github-readme-stats-bay-delta-70.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
+<br>
 
 <!-- Activity Graph (Line Chart) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavYadav1&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Utsav's Activity Graph" width="800" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UtsavYadav1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
----
-
-<!-- Competitive Programming -->
-<h2 align="center">🧠 Competitive Programming</h2>
-
-<div align="center">
-  <a href="https://leetcode.com/u/UtsavYadav1/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=UtsavYadav1&theme=dark" alt="LeetCode Stats" />
-  </a>
-</div>
-
----
-
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-| 🏆 Project | 📝 Description | 💻 Tech Stack |
-| :--- | :--- | :--- |
-| **WellSure** | AI-Powered Health Diagnosis & Doctor Booking Platform. (Patent Selected) | `AI` `Python` `Web` |
-| **EmpowerHer** | Full-Stack Role-Based Empowerment Platform for women safety and growth. | `React` `Node.js` `MongoDB` |
-| **CareerBERT** | AI-Powered Career & Job Matching System using advanced NLP. | `BERT` `NLP` `Flask` |
-| **Kisan Bazaar** | Farmer-to-Consumer Digital Marketplace eliminating middlemen. | `Full Stack` `Web` `DB` |
 
 ---
 
