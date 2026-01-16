@@ -55,7 +55,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&count_private=false" alt="Stats" />
+ <img src="https://github-readme-stats-bay-delta-70.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=onedark&hide_border=false" alt="Streak" />
   <br/>
