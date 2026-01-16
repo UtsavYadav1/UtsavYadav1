@@ -51,22 +51,15 @@
 
 ---
 
-<!-- GitHub Analytics -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&rank_icon=github" height="180" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currFire=58A6FF&dates=C9D1D9" height="180" alt="Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=UtsavYadav1&theme=onedark&hide_border=false" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavYadav1&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
 <br>
 
 <!-- Activity Graph (Line Chart) -->
