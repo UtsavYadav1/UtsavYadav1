@@ -68,12 +68,15 @@
 <h2 align="center">🔗 Connect With Me</h2>
 
 <div align="center">
+  <a href="mailto:dsav2613@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/utsav-yadav01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/UtsavYadav1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/UtsavyadavX" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
@@ -81,5 +84,5 @@
 
 <div align="center">
   <br>
-  <i>"Building the future with code, one bug at a time."</i>
+  <code>"Building the future with code, one bug at a time." 🚀</code>
 </div>
