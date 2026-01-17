@@ -13,15 +13,13 @@
 <!-- About Me -->
 <h2 align="center">⚡ About Me</h2>
 
-<p align="center">
-  I am an <b>Information Technology undergraduate</b> at KIET Group of Institutions with strong problem-solving skills and hands-on experience in <b>full-stack development</b> and <b>AI-based systems</b>. I have built real-world platforms in healthcare, career guidance, and social empowerment domains. My work includes a <b>patent-selected healthcare project</b>. I am passionate about scalable systems, secure development, and applied AI.
-</p>
-
-<p align="center">
-  📍 <b>Location</b>: India &nbsp; • &nbsp; 🎓 <b>Education</b>: B.Tech (IT) &nbsp; • &nbsp; 💼 <b>Status</b>: Open to Internships
-</p>
-
----
+- 💡 **Full-Stack Developer & AI Enthusiast** building real-world platforms in healthcare and social domains.
+- 🎓 Information Technology undergraduate at **KIET Group of Institutions**.
+- 🧠 Creator of a **patent-selected healthcare project** and AI-powered career guidance systems.
+- 🚀 Passionate about **scalable systems**, **secure development**, and **applied AI**.
+- 🤝 Open to **internship opportunities** and technical collaborations.
+- 📧 You can shoot me an email at **[dsav2613@gmail.com](mailto:dsav2613@gmail.com)**!
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/YOUR_RESUME_LINK/view)** for more details.
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
