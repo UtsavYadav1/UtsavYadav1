@@ -19,7 +19,7 @@
 - 🛠️ Actively working on **WordPress plugin development**, admin utilities, and clean backend architecture.
 - 🤝 Interested in **open-source contribution**, code reviews, and collaborative development.
 - 📧 Reach me at **[dsav2613@gmail.com](mailto:dsav2613@gmail.com)**.
-- 📄 View my **resume** for detailed projects and technical experience.
+- 📄 View my [Resume](https://drive.google.com/file/d/1td8Yw6TK-Q0ntFMoMcVzLA7xZ708wKNG/view) for detailed projects and technical experience.
 
 ---
 
