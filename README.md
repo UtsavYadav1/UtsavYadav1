@@ -18,8 +18,8 @@
 - 🧠 Creator of a **patent-selected healthcare project** and AI-powered career guidance systems.
 - 🚀 Passionate about **scalable systems**, **secure development**, and **applied AI**.
 - 🤝 Open to **internship opportunities** and technical collaborations.
-- 📧 You can shoot me an email at **[dsav2613@gmail.com](mailto:dsav2613@gmail.com)**!
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/YOUR_RESUME_LINK/view)** for more details.
+- 📧 Reach me directly at **[dsav2613@gmail.com](mailto:dsav2613@gmail.com)**.
+- 📄 Explore my detailed qualifications in my **[Resume](https://drive.google.com/file/d/1td8Yw6TK-Q0ntFMoMcVzLA7xZ708wKNG/view?usp=drivesdk)**.
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
