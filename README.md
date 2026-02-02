@@ -19,7 +19,7 @@
 - 🚀 Passionate about **scalable systems**, **secure development**, and **applied AI**.
 - 🤝 Open to **internship opportunities** and technical collaborations.
 - 📧 Reach me directly at **[dsav2613@gmail.com](mailto:dsav2613@gmail.com)**.
-- 📄 Explore my detailed qualifications in my **[Resume]([https://drive.google.com/file/d/1td8Yw6TK-Q0ntFMoMcVzLA7xZ708wKNG/view?usp=drivesdk](https://drive.google.com/file/d/1pzyMmtqT_Kk15-2RNX8JJy-be2tA5-qz/view?usp=drivesdk))**.
+- 📄 Explore my detailed qualifications in my **[Resume](https://drive.google.com/file/d/1pzyMmtqT_Kk15-2RNX8JJy-be2tA5-qz/view?usp=drivesdk)**.
 
 ---
 
