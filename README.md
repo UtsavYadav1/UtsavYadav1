@@ -22,8 +22,7 @@
 - ☁️ AWS Certified AI Practitioner & Oracle Generative AI Professional.
 - 🤝 Open to **Machine Learning**, **AI Engineer**, and **Applied AI Internship** opportunities.
 - 📧 Reach me at **[dsav2613@gmail.com](mailto:dsav2613@gmail.com)**.
-- 📄 **[Resume]([https://drive.google.com/file/d/1pzyMmtqT_Kk15-2RNX8JJy-be2tA5-qz/view?usp=drivesdk](https://drive.google.com/file/d/1jDV-VPpZQJ7GaR02rNXcvw0czInPZpVj/view?usp=drivesdk))**.
-
+- 📄 **[Resume](https://drive.google.com/file/d/1jDV-VPpZQJ7GaR02rNXcvw0czInPZpVj/view?usp=drivesdk)**.
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
